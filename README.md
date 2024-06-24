@@ -1,0 +1,1 @@
+- Create a folder for the pattern and run `npx tsc --init` to create a separate typescript project on it
